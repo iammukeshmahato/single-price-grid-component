@@ -3,7 +3,7 @@
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
 
 
-- Solution URL: [Click Here]([https://www.frontendmentor.io/solutions/single-price-grid-component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub/single-price-grid-component-axMRKbw4CK])
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/single-price-grid-component-axMRKbw4CK)
 - Live Site URL: [Click Here](https://iammukeshmahato.github.io/single-price-grid-component)
 
 
